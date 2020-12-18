@@ -5,7 +5,7 @@
 		"ServerScriptService": {
 			"$className": "ServerScriptService",
 			"TS": {
-				"$path": "out/server"
+				"$path": "ROBLOXLua/server"
 			}
 		},
 
@@ -18,14 +18,14 @@
 				}
 			},
 			"Modules": {
-				"$path": "out/shared"
+				"$path": "ROBLOXLua/shared"
 			}
 		},
 
 		"StaterGui": {
 			"$className": "StarterGui", 
 			"StarterGuiScripts": {
-				"$path": "out/startergui"
+				"$path": "ROBLOXLua/startergui"
 			}
 		},
 
@@ -34,7 +34,7 @@
 			"StarterPlayerScripts": {
 				"$className": "StarterPlayerScripts",
 				"StarterPlayer": {
-					"$path": "out/client"
+					"$path": "ROBLOXLua/client"
 				}
 			}
 		},
