@@ -22,7 +22,7 @@
 			}
 		},
 
-		"StaterGui": {
+		"StarterGui": {
 			"$className": "StarterGui", 
 			"StarterGuiScripts": {
 				"$path": "ROBLOXLua/startergui"

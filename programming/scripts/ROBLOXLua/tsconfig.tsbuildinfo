@@ -13,7 +13,7 @@
         "version": "9be5a47297d8418b950cb4ea4f9c44422485454459d4e4a4e0194057977af566",
         "affectsGlobalScope": false
       },
-      "./startergui/startergui.ts": {
+      "./startergui/startergui.client.ts": {
         "version": "e6744507c05998814dcc0c143fe259e2987c4e35e20234c568e1110062558c00",
         "affectsGlobalScope": false
       },
@@ -135,12 +135,12 @@
       "./server/main.server.ts": [
         "./shared/module.ts"
       ],
-      "./startergui/startergui.ts": [
+      "./startergui/startergui.client.ts": [
         "./shared/module.ts"
       ]
     },
     "exportedModulesMap": {},
     "semanticDiagnosticsPerFile": []
   },
-  "version": "1.0.0-beta.8-e654f096c3827b9b791f77c12062090ed66a23ead40ba881e4c3f14066ab4df8"
+  "version": "1.0.0-beta.8-0a5e51da87e3a62fb4829257277a680256fc003c3a95f642c77acf4203ee42b4"
 }
